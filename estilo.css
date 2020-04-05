@@ -1,16 +1,17 @@
 body {
-    margin: 0;
-    background-color: hsl(235, 40%, 66%);
-    font-family: sans-serif;
-    text-align: justify;
-  }
-  
-  h1 {
-    background-color: hsl(235, 17%, 75%);
-    color: white;
-    font-size: 4rem;
-  }
-  
+  margin: 0;
+  background-color: hsl(235, 20%, 90%);
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  margin: 0;
+  background-color: hsl(235, 20%, 25%);
+  color: white;
+  font-size: 4rem;
+}
+
   section#software {
     position: absolute;
     top: 6rem;
